@@ -1,3 +1,4 @@
+#part 1
 import numpy as np
 import scipy.stats as st
 # Initialize delta(minimum lift the product manager expect), control_mean, control_sd
@@ -21,3 +22,32 @@ t_stat, p_value = st.ttest_ind(control_time_spent, treatment_time_spent)
 power=(p_value<0.05).sum()/n_sim
 print("Power of the experiment {:.1%}".format(power))
 #Power of the experiment 58.8%
+
+
+#part 2
+#increment sample size till required power is reached 
+sample_size=1000
+np.random.seed(123)
+while True:
+    control_time_spent, treatment_time_spent=simulate_data(control_mean,control_sd,sample_size,n_sim)
+    t_stat, p_value = st.ttest_ind(control_time_spent, treatment_time_spent)
+    power=(p_value<alpha).sum()/n_sim
+    if power>.80:
+        print("Minimum sample size required to reach significance {}".format(sample_size))
+        break
+    else:
+        sample_size+=10
+#Minimum sample size required to reach significance 1560
+
+
+#part 3
+#Analtyical solution to compute sample size
+from statsmodels.stats.power import tt_ind_solve_power
+
+treat_mean=control_mean*(1+delta)
+mean_diff=treat_mean-control_mean
+
+cohen_d=mean_diff/np.sqrt((control_sd**2+control_sd**2)/2)
+
+n = tt_ind_solve_power(effect_size=cohen_d, alpha=alpha, power=0.8, ratio=1, alternative='two-sided')
+print('Minimum sample size required to reach significance: {:.0f}'.format(round(n)))
