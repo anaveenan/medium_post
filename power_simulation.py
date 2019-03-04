@@ -51,3 +51,4 @@ cohen_d=mean_diff/np.sqrt((control_sd**2+control_sd**2)/2)
 
 n = tt_ind_solve_power(effect_size=cohen_d, alpha=alpha, power=0.8, ratio=1, alternative='two-sided')
 print('Minimum sample size required to reach significance: {:.0f}'.format(round(n)))
+#minimum sample size required to reach significance: 1571
