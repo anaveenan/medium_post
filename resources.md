@@ -1,6 +1,6 @@
 ### List of useful sources learn practical machine learning 
 
-1 . http://ethen8181.github.io/machine-learning/
+1 . http://ethen8181.github.io/machine-learning/  
 2 . Recommender systems
 https://opensourceconnections.com/blog/2016/06/06/recommender-systems-101-basket-analysis/
 https://nikaashpuri.wordpress.com/2016/03/09/llr-log-likelihood-ratio-used-for-recommendations/
