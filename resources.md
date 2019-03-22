@@ -1,2 +1,3 @@
+###List of use sources learn practical machine learning 
 
-http://ethen8181.github.io/machine-learning/
+1.  http://ethen8181.github.io/machine-learning/
