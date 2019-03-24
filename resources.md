@@ -10,6 +10,9 @@ https://github.com/talmago/pyspark-loglikelihood
 4 . A/B testing   
 https://github.com/anaveenan/A-B-Testing-and-Beyond/blob/master/Notes/AB_Testing_and_Beyond.pdf  
 5 . https://explained.ai/  
-6 . Diff-Diff 
+6 . Diff-Diff  
 https://dsaber.com/2017/04/02/time-keeps-on-slipping-exploiting-time-for-causal-inference-with-difference-in-differences-and-panel-methods/
+7 . Causual inference  
+http://www.degeneratestate.org/posts/2018/Mar/24/causal-inference-with-python-part-1-potential-outcomes/
+http://laurence-wong.com/software/
 
