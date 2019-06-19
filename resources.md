@@ -14,5 +14,11 @@ https://github.com/anaveenan/A-B-Testing-and-Beyond/blob/master/Notes/AB_Testing
 https://dsaber.com/2017/04/02/time-keeps-on-slipping-exploiting-time-for-causal-inference-with-difference-in-differences-and-panel-methods/
 7 . Causual inference  
 http://www.degeneratestate.org/posts/2018/Mar/24/causal-inference-with-python-part-1-potential-outcomes/
-http://laurence-wong.com/software/
+http://laurence-wong.com/software/ . 
+
+8 . Good stats refresher 
+
+http://www.rebeccabarter.com/categories/hypothesis-testing/
+
+
 
