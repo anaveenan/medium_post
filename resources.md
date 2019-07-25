@@ -24,7 +24,13 @@ http://www.rebeccabarter.com/categories/hypothesis-testing/
 
 http://www.degeneratestate.org/posts/2018/Jan/04/reducing-the-variance-of-ab-test-using-prior-information/
 
-https://booking.ai/how-booking-com-increases-the-power-of-online-experiments-with-cuped-995d186fff1d
+https://booking.ai/how-booking-com-increases-the-power-of-online-experiments-with-cuped-995d186fff1d .     
+
+
+
+Send time optimization :
+
+https://www.linkedin.com/pulse/20141124074501-28587684-email-marketing-and-machine-learning-multi-arm-bandits-for-delivery-time-optimization/
 
 
 
