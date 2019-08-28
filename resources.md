@@ -26,7 +26,9 @@ http://www.degeneratestate.org/posts/2018/Jan/04/reducing-the-variance-of-ab-tes
 
 https://booking.ai/how-booking-com-increases-the-power-of-online-experiments-with-cuped-995d186fff1d .     
 
-
+10. Best reference on tree based model for clustering . 
+https://gdmarmerola.github.io/categories/#causal%20inference
+https://www.kaggle.com/gdmarmerola/a-causal-look-at-what-makes-a-kaggler-valuable
 
 Send time optimization :
 
