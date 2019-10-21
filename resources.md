@@ -35,6 +35,10 @@ Send time optimization :
 https://www.linkedin.com/pulse/20141124074501-28587684-email-marketing-and-machine-learning-multi-arm-bandits-for-delivery-time-optimization/
 
 
+Power vs precision
+https://www.youtube.com/watch?v=Np4lxvS8C-E
+
+
 
 
 
