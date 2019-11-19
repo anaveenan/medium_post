@@ -39,6 +39,12 @@ Power vs precision
 https://www.youtube.com/watch?v=Np4lxvS8C-E
 
 
+Marketing Algorithm:
+
+https://algorithmic-marketing.online/
+
+https://blog.griddynamics.com/dynamic-pricing-algorithms/
+
 
 
 
