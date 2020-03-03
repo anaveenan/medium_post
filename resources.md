@@ -26,6 +26,11 @@ http://www.degeneratestate.org/posts/2018/Jan/04/reducing-the-variance-of-ab-tes
 
 https://booking.ai/how-booking-com-increases-the-power-of-online-experiments-with-cuped-995d186fff1d .  
 
+10. Facebook lift. 
+
+https://medium.com/panoramic/random-forest-and-ensemble-methods-for-youtube-brand-lift-forecasting-87d6a69fb983.  
+
+
 8. Netowrk and graph.  
 https://teddykoker.com/2019/07/predicting-academic-collaboration-with-logistic-regression/.  
 
