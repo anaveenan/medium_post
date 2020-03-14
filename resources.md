@@ -62,7 +62,8 @@ https://blog.griddynamics.com/dynamic-pricing-algorithms/
 
 11. Spark    
 
-https://albertusk95.github.io/posts/2019/05/lightning-fast-pandas-udf/
+Spark best ever 
+https://albertusk95.github.io/posts/2019/05/lightning-fast-pandas-udf/.  
 https://changhsinlee.com/pyspark-udf/    
 
 
