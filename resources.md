@@ -15,6 +15,7 @@ https://dsaber.com/2017/04/02/time-keeps-on-slipping-exploiting-time-for-causal-
 7 . Causual inference  
 http://www.degeneratestate.org/posts/2018/Mar/24/causal-inference-with-python-part-1-potential-outcomes/
 http://laurence-wong.com/software/ .    
+Marketmatching - https://github.com/klarsen1/MarketMatching.     
 
 8 . Good stats refresher 
 
