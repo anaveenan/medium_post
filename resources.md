@@ -26,6 +26,8 @@ http://www.degeneratestate.org/posts/2018/Jan/04/reducing-the-variance-of-ab-tes
 
 https://booking.ai/how-booking-com-increases-the-power-of-online-experiments-with-cuped-995d186fff1d .  
 
+
+
 10. Facebook lift. 
 
 https://medium.com/panoramic/random-forest-and-ensemble-methods-for-youtube-brand-lift-forecasting-87d6a69fb983.  
@@ -38,6 +40,9 @@ https://teddykoker.com/2019/07/predicting-academic-collaboration-with-logistic-r
 10. Best reference on tree based model for clustering . 
 https://gdmarmerola.github.io/categories/#causal%20inference
 https://www.kaggle.com/gdmarmerola/a-causal-look-at-what-makes-a-kaggler-valuable
+
+11. yaml   . 
+https://changhsinlee.com/pyderpuffgirls-ep6/.  
 
 Send time optimization :
 
