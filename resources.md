@@ -67,6 +67,9 @@ Spark best ever
 https://albertusk95.github.io/posts/2019/05/lightning-fast-pandas-udf/.  
 https://changhsinlee.com/pyspark-udf/    
 
+12. Tripadvisor IV analysis https://papers.nips.cc/paper/9655-machine-learning-estimation-of-heterogeneous-treatment-effects-with-instruments.pdf.   
+
+
 
 
 
