@@ -75,5 +75,8 @@ https://www.youtube.com/watch?v=Vf-pPtbWE5Y.
 
 
 
+VS Code Remote Edit :     
+https://marketplace.visualstudio.com/items?itemName=liximomo.remotefs
+
 
 
