@@ -83,6 +83,8 @@ https://gist.github.com/marnixkoops/e68815d30474786e2b293682ed7cdb01.
 15. OR ML. 
 https://www.ethanrosenthal.com/2016/08/30/towards-optimal-personalization/
 
+16.  A/B testing advanced
+https://chris-said.io/2020/01/10/optimizing-sample-sizes-in-ab-testing-part-I/. 
 
 VS Code Remote Edit :     
 https://marketplace.visualstudio.com/items?itemName=liximomo.remotefs
