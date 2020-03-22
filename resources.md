@@ -80,6 +80,9 @@ https://www.youtube.com/watch?v=Vf-pPtbWE5Y.
 14. Target Encoding. 
 https://gist.github.com/marnixkoops/e68815d30474786e2b293682ed7cdb01.  
 
+15. OR ML. 
+https://www.ethanrosenthal.com/2016/08/30/towards-optimal-personalization/
+
 
 VS Code Remote Edit :     
 https://marketplace.visualstudio.com/items?itemName=liximomo.remotefs
