@@ -86,6 +86,9 @@ https://www.ethanrosenthal.com/2016/08/30/towards-optimal-personalization/
 16.  A/B testing advanced
 https://chris-said.io/2020/01/10/optimizing-sample-sizes-in-ab-testing-part-I/. 
 
+17. Casual Inference 
+https://www.youtube.com/watch?time_continue=1277&v=GTgZfCltMm8&feature=emb_logo.  
+
 VS Code Remote Edit :     
 https://marketplace.visualstudio.com/items?itemName=liximomo.remotefs
 
