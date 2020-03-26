@@ -93,4 +93,8 @@ VS Code Remote Edit :
 https://marketplace.visualstudio.com/items?itemName=liximomo.remotefs
 
 
+18. Great blog to read.    
+https://www.chrisstucchio.com/blog/2014/work_hours_with_python.html    
+
+
 
