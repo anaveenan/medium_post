@@ -96,5 +96,8 @@ https://marketplace.visualstudio.com/items?itemName=liximomo.remotefs
 18. Great blog to read.    
 https://www.chrisstucchio.com/blog/2014/work_hours_with_python.html    
 
+19. Book on casual inference.  
+https://github.com/robert8138/causal-inference/blob/master/Mastering-Metrics.pdf.  
+
 
 
