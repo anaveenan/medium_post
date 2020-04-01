@@ -99,5 +99,8 @@ https://www.chrisstucchio.com/blog/2014/work_hours_with_python.html
 19. Book on casual inference.  
 https://github.com/robert8138/causal-inference/blob/master/Mastering-Metrics.pdf.  
 
+20. Timeseries 
+https://blog.twitter.com/developer/en_us/topics/tips/2018/evaluating-time-series-and-identifying-trends.html. 
+
 
 
