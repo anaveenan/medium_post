@@ -29,6 +29,9 @@ https://booking.ai/how-booking-com-increases-the-power-of-online-experiments-wit
 
 
 
+
+
+
 10. Facebook lift. 
 
 https://medium.com/panoramic/random-forest-and-ensemble-methods-for-youtube-brand-lift-forecasting-87d6a69fb983.  
@@ -103,4 +106,6 @@ https://github.com/robert8138/causal-inference/blob/master/Mastering-Metrics.pdf
 https://blog.twitter.com/developer/en_us/topics/tips/2018/evaluating-time-series-and-identifying-trends.html. 
 
 
+21. decision tree for categories 
 
+https://www.mcliston.com/third-post.html
