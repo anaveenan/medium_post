@@ -109,3 +109,7 @@ https://blog.twitter.com/developer/en_us/topics/tips/2018/evaluating-time-series
 21. decision tree for categories 
 
 https://www.mcliston.com/third-post.html
+
+22. Brior score     
+
+https://timvangelder.com/2015/05/18/brier-score-composition-a-mini-tutorial/
