@@ -113,3 +113,6 @@ https://www.mcliston.com/third-post.html
 22. Brior score     
 
 https://timvangelder.com/2015/05/18/brier-score-composition-a-mini-tutorial/
+
+23. Hampel filter.   
+https://towardsdatascience.com/outlier-detection-with-hampel-filter-85ddf523c73d
