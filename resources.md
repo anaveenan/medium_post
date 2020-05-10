@@ -72,6 +72,8 @@ https://changhsinlee.com/pyspark-udf/
 
 12. Tripadvisor IV analysis https://papers.nips.cc/paper/9655-machine-learning-estimation-of-heterogeneous-treatment-effects-with-instruments.pdf.   
 
+https://www2.stat.duke.edu/courses/Spring14/sta320.01/IV_noncompliance.pdf
+
 13. KS Test for targeting    
 https://www.youtube.com/watch?v=Vf-pPtbWE5Y.  
 
