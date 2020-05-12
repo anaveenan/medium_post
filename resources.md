@@ -120,3 +120,11 @@ https://timvangelder.com/2015/05/18/brier-score-composition-a-mini-tutorial/
 
 23. Hampel filter.   
 https://towardsdatascience.com/outlier-detection-with-hampel-filter-85ddf523c73d
+
+24. ML scratch.   
+
+https://medium.com/coinmonks/loss-optimization-in-scientific-python-d1efbbe87171.  
+
+https://www.anotherbookondatascience.com/index.html. 
+
+
