@@ -127,4 +127,8 @@ https://medium.com/coinmonks/loss-optimization-in-scientific-python-d1efbbe87171
 
 https://www.anotherbookondatascience.com/index.html. 
 
+25. Econometrics.   
+
+http://web.vu.lt/mif/a.buteikis/wp-content/uploads/PE_Book/4-7-Multiple-heteroskedastic.html   
+
 
