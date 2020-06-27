@@ -131,4 +131,8 @@ https://www.anotherbookondatascience.com/index.html.
 
 http://web.vu.lt/mif/a.buteikis/wp-content/uploads/PE_Book/4-7-Multiple-heteroskedastic.html   
 
+26. Interview pre.   
+
+https://github.com/angang-li/data_science_notes
+
 
