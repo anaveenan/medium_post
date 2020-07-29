@@ -137,4 +137,6 @@ https://datascience.quantecon.org/applications/heterogeneity.html.
 
 https://github.com/angang-li/data_science_notes
 
+27. Simulation.    
+https://lastclick.city/prediction-of-campaign-results-using-python.html.    
 
