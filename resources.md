@@ -141,3 +141,5 @@ https://github.com/angang-li/data_science_notes
 https://lastclick.city/prediction-of-campaign-results-using-python.html.    
 https://castlelab.princeton.edu/orf-411/.  
 
+28. Survival analysis.   
+https://medium.com/vitalify-asia/a-case-study-for-applying-survival-analysis-on-real-business-problem-d55dcb3db8eb.  
