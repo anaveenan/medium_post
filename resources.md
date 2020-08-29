@@ -133,6 +133,8 @@ http://web.vu.lt/mif/a.buteikis/wp-content/uploads/PE_Book/4-7-Multiple-heterosk
 
 https://datascience.quantecon.org/applications/heterogeneity.html.   
 
+https://python-programming.quantecon.org/index_toc.html.  
+
 26. Interview pre.   
 
 https://github.com/angang-li/data_science_notes
