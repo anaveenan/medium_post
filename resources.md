@@ -9,6 +9,8 @@ https://github.com/talmago/pyspark-loglikelihood
 3 . http://course18.fast.ai/lessonsml1/lesson7.html  
 4 . A/B testing   
 https://github.com/anaveenan/A-B-Testing-and-Beyond/blob/master/Notes/AB_Testing_and_Beyond.pdf  
+https://arxiv.org/abs/1811.00457.  (test and roll) 
+https://chris-said.io/2020/01/10/optimizing-sample-sizes-in-ab-testing-part-II/.  
 5 . https://explained.ai/  
 6 . Diff-Diff  
 https://dsaber.com/2017/04/02/time-keeps-on-slipping-exploiting-time-for-causal-inference-with-difference-in-differences-and-panel-methods/
