@@ -29,6 +29,9 @@ http://www.degeneratestate.org/posts/2018/Jan/04/reducing-the-variance-of-ab-tes
 
 https://booking.ai/how-booking-com-increases-the-power-of-online-experiments-with-cuped-995d186fff1d .  
 
+10. Churn/Retention analysis.   
+https://jwinternheimer.github.io/blog/awesome-activation-metric/.   
+
 
 
 
