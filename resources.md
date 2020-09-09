@@ -37,6 +37,8 @@ https://jwinternheimer.github.io/blog/awesome-activation-metric/.
 
 
 
+
+
 10. Facebook lift. 
 
 https://medium.com/panoramic/random-forest-and-ensemble-methods-for-youtube-brand-lift-forecasting-87d6a69fb983.  
@@ -150,3 +152,7 @@ https://castlelab.princeton.edu/orf-411/.
 
 28. Survival analysis.   
 https://medium.com/vitalify-asia/a-case-study-for-applying-survival-analysis-on-real-business-problem-d55dcb3db8eb.  
+
+
+29. Leetcode.  
+https://emre.me/categories/.  
