@@ -160,3 +160,11 @@ https://medium.com/vitalify-asia/a-case-study-for-applying-survival-analysis-on-
 
 29. Leetcode.  
 https://emre.me/categories/.  
+
+
+30. repeated measures. 
+https://eshinjolly.com/2019/02/18/rep_measures/.     
+
+31. sklearn.   
+https://blog.telsemeyer.com/. 
+     
