@@ -167,4 +167,7 @@ https://eshinjolly.com/2019/02/18/rep_measures/.
 
 31. sklearn.   
 https://blog.telsemeyer.com/. 
+
+32. Shapley values.    
+https://lastclick.city/comparative-measurement-methods-of-global-changes-for-marketers.html.   
      
