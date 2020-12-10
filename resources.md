@@ -170,4 +170,8 @@ https://blog.telsemeyer.com/.
 
 32. Shapley values.    
 https://lastclick.city/comparative-measurement-methods-of-global-changes-for-marketers.html.   
+
+33. Forecasting.   
+
+https://github.com/abdullahsaka/Supply_Chain_Forecasting
      
