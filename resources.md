@@ -178,3 +178,7 @@ https://github.com/abdullahsaka/Supply_Chain_Forecasting
 34. Python software engineering practices   
 
 https://merely-useful.github.io/py-rse/index.html.  
+
+35. Interview  
+
+https://machinelearningfaq.com/gradient-boosting-sklean-xgboost-lightgbm-and-catboost/
