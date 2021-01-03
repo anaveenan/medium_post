@@ -174,4 +174,7 @@ https://lastclick.city/comparative-measurement-methods-of-global-changes-for-mar
 33. Forecasting.   
 
 https://github.com/abdullahsaka/Supply_Chain_Forecasting
-     
+
+34. Python software engineering practices   
+
+https://merely-useful.github.io/py-rse/index.html.  
