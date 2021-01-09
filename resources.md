@@ -181,4 +181,8 @@ https://merely-useful.github.io/py-rse/index.html.
 
 35. Interview  
 
-https://machinelearningfaq.com/gradient-boosting-sklean-xgboost-lightgbm-and-catboost/
+https://machinelearningfaq.com/gradient-boosting-sklean-xgboost-lightgbm-and-catboost/.  
+
+36. Poetry
+
+https://villoro.com/blog
