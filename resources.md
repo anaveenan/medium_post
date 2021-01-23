@@ -186,3 +186,11 @@ https://machinelearningfaq.com/gradient-boosting-sklean-xgboost-lightgbm-and-cat
 36. Poetry
 
 https://villoro.com/blog
+
+37. Pandas workflow 
+https://www.alexpghayes.com/blog/many-models-workflows-in-python-part-i/.    
+https://mchow.com/posts/pandas-has-a-hard-job/.  
+https://stackoverflow.com/questions/14529838/apply-multiple-functions-to-multiple-groupby-columns/47103408#47103408.  
+https://pbpython.com/groupby-agg.html.  
+https://pbpython.com/styling-pandas.html.  
+  
