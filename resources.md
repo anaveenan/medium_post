@@ -193,4 +193,8 @@ https://mchow.com/posts/pandas-has-a-hard-job/.
 https://stackoverflow.com/questions/14529838/apply-multiple-functions-to-multiple-groupby-columns/47103408#47103408.  
 https://pbpython.com/groupby-agg.html.  
 https://pbpython.com/styling-pandas.html.  
+
+38.   propensity
+https://emilyriederer.netlify.app/post/causal-design-patterns/.     
+https://livefreeordichotomize.com/2019/01/17/understanding-propensity-score-weighting/.    
   
