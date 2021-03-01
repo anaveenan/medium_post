@@ -196,5 +196,9 @@ https://pbpython.com/styling-pandas.html.
 
 38.   propensity
 https://emilyriederer.netlify.app/post/causal-design-patterns/.     
-https://livefreeordichotomize.com/2019/01/17/understanding-propensity-score-weighting/.    
+https://livefreeordichotomize.com/2019/01/17/understanding-propensity-score-weighting/.   
+
+39.  Reading 
+https://evidentlyai.com/blog/evidently-014-target-and-prediction-drift   
+
   
