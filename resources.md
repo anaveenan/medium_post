@@ -201,4 +201,7 @@ https://livefreeordichotomize.com/2019/01/17/understanding-propensity-score-weig
 39.  Reading 
 https://evidentlyai.com/blog/evidently-014-target-and-prediction-drift   
 
+40. Panda.  
+https://www.gormanalysis.com/blog/python-pandas-for-your-grandpa-2-4-series-boolean-indexing/   
+
   
