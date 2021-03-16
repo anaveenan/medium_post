@@ -29,8 +29,9 @@ http://www.degeneratestate.org/posts/2018/Jan/04/reducing-the-variance-of-ab-tes
 
 https://booking.ai/how-booking-com-increases-the-power-of-online-experiments-with-cuped-995d186fff1d .  
 
-10. Churn/Retention analysis.   
+10. Churn/Retention analysis(must read blog).   
 https://jwinternheimer.github.io/blog/awesome-activation-metric/.   
+
 
 
 11. LR + Tree
@@ -203,5 +204,12 @@ https://evidentlyai.com/blog/evidently-014-target-and-prediction-drift
 
 40. Panda.  
 https://www.gormanalysis.com/blog/python-pandas-for-your-grandpa-2-4-series-boolean-indexing/   
+
+41.Blog on a/b testings 
+ 
+Sample size formula: http://www.stat.columbia.edu/~gelman/stuff_for_blog/chap20.pdf  
+Best plog: https://bytepawn.com/index7.html   
+
+
 
   
