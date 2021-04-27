@@ -211,5 +211,8 @@ Sample size formula: http://www.stat.columbia.edu/~gelman/stuff_for_blog/chap20.
 Best plog: https://bytepawn.com/index7.html   
 
 
+42. Causual inference   
+
+https://matheusfacure.github.io/python-causality-handbook/04-Graphical-Causal-Models.html
 
   
