@@ -215,4 +215,7 @@ Best plog: https://bytepawn.com/index7.html
 
 https://matheusfacure.github.io/python-causality-handbook/04-Graphical-Causal-Models.html
 
+43. Causual inference book
+https://www.theeffectbook.net/ch-CausalDiagrams.html
+
   
